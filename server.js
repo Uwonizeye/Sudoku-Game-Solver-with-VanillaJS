@@ -1,16 +1,3 @@
-/*
-PLAN:
--server side:
--------------
--Serves static files
-
--Client side:
--------------
-- A sudoku grid with cells that take input
-- button to submit solution
-- a few event handlers
-*/
-
 
 // Server side Code
 
